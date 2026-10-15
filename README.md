@@ -119,6 +119,7 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
+<img width="1836" height="926" alt="Screenshot 2026-10-08 144617" src="https://github.com/user-attachments/assets/79cc8969-e51e-434c-b94b-26b64ea4f152" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
